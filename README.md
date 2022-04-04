@@ -14,12 +14,19 @@
 ## What do we need ?
 ![owen](https://owen-wilson-wow-api.herokuapp.com/static/media/Logo.3b55998c204f27064b30.png "owen")
 We need to list a bunch of movies from the Owen Willson API  🎬
+
 This is a public API,you don't require even an API key to fetch data from it, there some options to get this info, but **please just use this one**:
+
 `https://owen-wilson-wow-api.herokuapp.com/wows/random?results=100`
+
 *at the moment exist only 90 movies on this response*
+
 we need to **display a list of these movies**, given some **parameters** in the request, example:
+
 `/?minDate=2000&maxDate=2005&minDuration=60&maxDuration=120...`
+
 the filters that **you should support are**:
+
 - Word include in the name of the movie
 - Year of the movie
 - Duration of the movie
@@ -33,12 +40,19 @@ these list **should be dispatch from the server**, but once it is** in the brows
 if any parameter exist in the request it should be visible in the initial state of these filters.
 
 ## What will be evaluated ? 
+
 *(sorted from main priority)*
 
 Code **solution** of the main objective
+
 **Simplicity** and readable code
+
 **ES6+** Usage
+
 Commit **history**
+
 Time **spend**
+
 **UI** generated
+
 PR **structure**
