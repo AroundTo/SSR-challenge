@@ -1,6 +1,4 @@
-
 # Around SSR Challenge
-
 **Table of Contents**
 
 [TOCM]
@@ -8,13 +6,13 @@
 [TOC]
 
 ## Instructions:
-* Forkl this repo,
+* Fork this repo,
 * Check the description (se what we need bellow)
 * Once you consider have a solution for the main problem, create a pull request to our `main` branch from your fork.
 * Once we review your code we will notify you to have a feedback of your solution, please notify your submit to be able to review it ASAP.
 
 ## What do we need ?
-[![owen](https://owen-wilson-wow-api.herokuapp.com/static/media/Logo.3b55998c204f27064b30.png "owen")]
+![owen](https://owen-wilson-wow-api.herokuapp.com/static/media/Logo.3b55998c204f27064b30.png "owen")
 We need to list a bunch of movies from the Owen Willson API  🎬
 This is a public API,you don't require even an API key to fetch data from it, there some options to get this info, but **please just use this one**:
 `https://owen-wilson-wow-api.herokuapp.com/wows/random?results=100`
@@ -44,7 +42,3 @@ Commit **history**
 Time **spend**
 **UI** generated
 PR **structure**
-
-
-
-
